@@ -12,4 +12,6 @@ learn ElasticSearch！
 
 [高级查询](https://blog.csdn.net/a314773862/article/details/77435264)
 
+[大数据学习[16]--使用scroll实现Elasticsearch数据遍历和深度分页[转]](https://blog.csdn.net/ld326/article/details/79240036)
+
 
